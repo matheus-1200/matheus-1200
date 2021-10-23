@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Matheus Nogueira 👋
 
-- 🔭 Atualemente trabalho como analista de sistemas
+- 🔭 Atualmente trabalho como analista de sistemas
 - 🌱 Atualmente estou estudando html, css e javascript
 
 <div align="center">
